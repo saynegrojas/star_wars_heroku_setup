@@ -1,0 +1,19 @@
+{
+  "name": "star_wars_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saynegrojas/star_wars_heroku_setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saynegrojas/star_wars_heroku_setup/issues"
+  },
+  "homepage": "https://github.com/saynegrojas/star_wars_heroku_setup#readme"
+}
